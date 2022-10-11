@@ -16,7 +16,6 @@ Calculator
 - Simple Math Operations
 - Porcentage 
 - Nice Design
-- Multiple Charts and Graphs to display data
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
